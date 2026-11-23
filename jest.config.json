@@ -1,0 +1,14 @@
+{
+    "collectCoverageFrom": [
+        "src/add.js",
+        "src/defaultTo.js",
+        "src/endsWith.js",
+        "src/eq.js",
+        "src/isLength.js",
+        "src/map.js",
+        "src/slice.js",
+        "src/toInteger.js",
+        "src/toNumber.js",
+        "src/toString.js"
+    ]
+}
